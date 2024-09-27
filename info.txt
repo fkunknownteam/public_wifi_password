@@ -21,9 +21,9 @@
     "password": "ivac@raj1234",
     "mac_address": "null",
     "address": {
-      "local_area": "Bornali mor, bank ar samne",
+      "address": "Bornali mor, bank ar samne",
       "suite": "Apt. 556",
-      "city": "Bornali",
+      "local_area": "Bornali",
       "zipcode": "92998-3874",
       "geo": {
         "lat": "-37.3159",
