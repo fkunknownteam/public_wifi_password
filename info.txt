@@ -5,7 +5,7 @@
     "password": "Tagun@10",
     "mac_address": "null",
     "address": {
-      "address": "Ranibazar Madrasa Market in front",
+      "street": "Ranibazar Madrasa Market in front",
       "suite": "Apt. 556",
       "local_area": "Rajshahi",
       "zipcode": "92998-3874",
@@ -21,7 +21,7 @@
     "password": "ivac@raj1234",
     "mac_address": "null",
     "address": {
-      "address": "Bornali mor, bank ar samne",
+      "street": "Bornali mor, bank ar samne",
       "suite": "Apt. 556",
       "local_area": "Bornali",
       "zipcode": "92998-3874",
