@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Sobuz",
-    "password": "Bret",
-    "mac_address": "Sincere@april.biz",
+    "name": "Siuuuuuu",
+    "password": "Tagun@10",
+    "mac_address": "null",
     "address": {
-      "local_area": "Terokhada",
+      "local_area": "Ranibazar Madrasa Market in front",
       "suite": "Apt. 556",
       "city": "Rajshahi",
       "zipcode": "92998-3874",
@@ -17,13 +17,13 @@
   },
   {
     "id": 2,
-    "name": "Sobuz",
-    "password": "Bret",
-    "mac_address": "Sincere@april.biz",
+    "name": "GROUND",
+    "password": "ivac@raj1234",
+    "mac_address": "null",
     "address": {
-      "local_area": "Terokhada",
+      "local_area": "Bornali mor, bank ar samne",
       "suite": "Apt. 556",
-      "city": "Rajshahi",
+      "city": "Bornali",
       "zipcode": "92998-3874",
       "geo": {
         "lat": "-37.3159",
