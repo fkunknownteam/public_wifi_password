@@ -5,9 +5,9 @@
     "password": "Tagun@10",
     "mac_address": "null",
     "address": {
-      "local_area": "Ranibazar Madrasa Market in front",
+      "address": "Ranibazar Madrasa Market in front",
       "suite": "Apt. 556",
-      "city": "Rajshahi",
+      "local_area": "Rajshahi",
       "zipcode": "92998-3874",
       "geo": {
         "lat": "-37.3159",
